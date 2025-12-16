@@ -2,9 +2,9 @@
 
 ### A budding Typescript developer
 
-- 🔭 I'm currently working on **ziyiBase前端基建项目**
+- 🔭 I'm currently working on **Vue3-reissue**
 
-- 🌱 I'm currently learning **langchain.js**
+- 🌱 I'm currently learning **Vue3.4**
 
 - 📫 How to reach me **3080554392@qq.com**
 
